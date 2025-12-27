@@ -25,7 +25,7 @@ print(x.real)
 print(x.imag) 
 
 ## Output
-https://github.com/user-attachments/assets/29144c9a-610d-4bd1-9be5-ea61065925f9
+<img width="714" height="186" alt="image" src="https://github.com/user-attachments/assets/1eb2fa04-8d86-4dab-bc42-7395f911a93a" />
 
 ## Result
 Thus the prgram has been successfully executed.
