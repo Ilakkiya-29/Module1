@@ -32,7 +32,7 @@ print(f"c: {c}")
 print(f"d: {d}")
 
 ## Output
-https://github.com/user-attachments/assets/82f786db-b2e1-4a1b-9229-9021873dad90
+<img width="905" height="247" alt="image" src="https://github.com/user-attachments/assets/d2192331-b1d4-43bf-9731-8a907dc728e5" />
 
 ## Result
 Thus, to write a python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is compiled and the output is verified successfully.
